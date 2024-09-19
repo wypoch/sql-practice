@@ -1,0 +1,52 @@
+Cat,Size,Enrl,Title
+97,0,13,Intermediate Algebra
+102,40,23,Quantitative Reasoning
+110,508,362,College Algebra
+111,120,110,Trigonometry
+112,1302,1144,Calculus 1
+113,815,617,Calculus 2
+116,440,246,Essentials of Calculus
+118,532,290,Finite Mathematics
+119,0,6,Introduction to Calculus
+191,203,65,Seminar in Mathematics 1
+213,625,525,Elementary Linear Algebra
+215,640,430,Computational Linear Algebra
+290,221,153,Fundamentals of Mathematics
+300,36,0,more Titles (flex title)
+302,190,131,Math for Engr 1
+303,120,75,Math for Engineering 2
+314,340,276,Calculus of Several Variables
+320,84,65,Algorithm Design & Opt 1
+321,95,65,Algorithm Design & Opt 1 Lab
+334,240,168,Ordinary Differential Equation
+341,70,58,Theory of Analysis 1
+342,24,8,Theory of Analysis 2
+344,81,63,Mathematical Analysis 1
+345,95,63,Mathematical Analysis 1 Lab
+352,40,14,Intro to Complex Analysis
+355,40,16,Graph Theory
+362,36,0,more Titles (flex title)
+371,42,35,Abstract Algebra 1
+391R,24,21,Seminar in Math
+399R,10,0,Academic Internship
+402,70,61,Model Uncertainty & Data 1
+403,71,59,Model Uncertainty & Data 1 Lab
+413,40,8,Advanced Linear Algebra
+431,38,23,Probability Theory
+436,70,57,Model Dynamics & Control 1
+437,71,57,Model Dynamics & Control 1 Lab
+473,40,8,Group Representation Theory
+485,50,41,Mathematical Cryptography
+495R,186,79,Readings in Math
+510,24,10,Num Methods for Linear Algebra
+521,24,8,Methods of Applied Math 1
+534,24,21,Intro to Dynamical Systems 1
+541,35,22,Real Analysis
+553,24,12,Foundations of Topology 1
+571,24,10,Algebra 1
+647,24,6,Theory of PDEs 1
+676,24,4,Commutative Algebra
+695R,58,6,Readings in Math
+698R,24,0,Master's Project
+699R,24,7,Master's Thesis
+799R,24,9,Doctoral Dissertation

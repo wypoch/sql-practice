@@ -1,0 +1,25 @@
+Cat,Size,Enrl,Title
+97,0,5,Intermediate Algebra
+102,0,1,Quantitative Reasoning
+110,90,79,College Algebra
+111,40,32,Trigonometry
+112,180,168,Calculus 1
+113,130,152,Calculus 2
+116,80,53,Essentials of Calculus
+118,60,60,Finite Mathematics
+119,0,1,Introduction to Calculus
+213,100,93,Elementary Linear Algebra
+215,90,80,Computational Linear Algebra
+290,40,30,Fundamentals of Mathematics
+300,30,0,more Titles (flex title)
+314,100,79,Calculus of Several Variables
+334,110,82,Ordinary Differential Equation
+362,30,0,more Titles (flex title)
+371,40,16,Abstract Algebra 1
+399R,10,4,Academic Internship
+495R,40,6,Readings in Math
+570,24,11,Matrix Analysis
+695R,35,5,Readings in Math
+698R,10,0,Master's Project
+699R,20,9,Master's Thesis
+799R,20,6,Doctoral Dissertation

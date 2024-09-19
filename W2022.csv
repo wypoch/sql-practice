@@ -1,0 +1,54 @@
+Cat,Size,Enrl,Title
+97,0,3,Intermediate Algebra
+102,35,39,Quantitative Reasoning
+109,200,64,Precalculus
+110,342,245,College Algebra
+111,120,69,Trigonometry
+112,969,648,Calculus 1
+113,801,606,Calculus 2
+116,200,98,Essentials of Calculus
+118,288,63,Finite Mathematics
+213,638,533,Elementary Linear Algebra
+215,600,504,Computational Linear Algebra
+290,180,108,Fundamentals of Mathematics
+300,36,0,more Titles (flex title)
+302,140,75,Math for Engr 1
+303,120,89,Math for Engineering 2
+314,338,282,Calculus of Several Variables
+322,62,57,Algorithm Design & Opt 2
+323,62,55,Algorithm Design & Opt 2 Lab
+334,405,306,Ordinary Differential Equation
+341,145,99,Theory of Analysis 1
+342,35,21,Theory of Analysis 2
+346,62,55,Mathematical Analysis 2
+347,62,54,Mathematical Analysis 2 Lab
+352,35,17,Intro to Complex Analysis
+362,40,0,more Titles (flex title)
+371,60,43,Abstract Algebra 1
+372,40,15,Abstract Algebra 2
+399R,10,1,Academic Internship
+404,70,67,Model Uncertainty & Data 2
+405,69,66,Model Uncertainty & Data 2 Lab
+413,35,21,Advanced Linear Algebra
+438,70,62,Model Dynamics & Control 2
+439,69,62,Model Dynamics & Control 2 Lab
+447,35,8,Intro Partial Differential Eqs
+451,34,18,Introduction to Topology
+487,35,13,Number Theory
+495R,90,39,Readings in Math
+502,50,22,more Titles (flex title)
+511,20,10,Num Methods for Partial Diff
+522,35,31,Methods of Applied Math 2
+525,30,24,Network Theory
+532,20,8,Complex Analysis
+540,24,7,Linear Analysis
+554,24,3,Foundations of Topology 2
+572,24,6,Algebra 2
+637,18,11,Advanced Probability 2
+640,24,4,Nonlinear Analysis
+676,20,5,Commutative Algebra
+682,24,6,Modular Forms
+695R,40,4,Readings in Math
+698R,5,2,Master's Project
+699R,20,18,Master's Thesis
+799R,20,5,Doctoral Dissertation
